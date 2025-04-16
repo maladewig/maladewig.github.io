@@ -13,9 +13,9 @@ title                    : "Malte Ladewig"
 title_separator          : "-"
 name                     : &name "Malte Ladewig"
 description              : &description "PhD scholar at the Norwegian University of Life Sciences (NMBU)"
-url                      : https://maltela.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://maladewig.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "maltela/maltela.github.io"
+repository               : "maladewig/maladewig.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
