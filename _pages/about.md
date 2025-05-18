@@ -21,7 +21,7 @@ Working papers
 ======
 Ladewig, M., Angelsen, A., Imani, G., Baderha, G., Bulonvu, F., Kalume, J., and Cuni-Sanchez, A. (2025). [Between a rock and a hard place: Livelihood diversification through artisanal mining in the eastern DRC](http://maladewig.github.io/files/postprint_DRC_ASM.pdf). *Forthcoming in Resources Policy*.
 
-Ladewig, M. (n.d.). [Increasing Pressure on Protected Areas in the DR Congo over the last 20 years](http://maladewig.github.io/files/wp_PAs_DRC). *Manuscript*.
+Ladewig, M. (n.d.). [Increasing Pressure on Protected Areas in the DR Congo over the last 20 years](http://maladewig.github.io/files/wp_PAs_DRC.pdf). *Manuscript*.
 
 Angelsen, A., Dermawan, A., and Ladewig, M. (2025). [Explaining the recent reduction of Indonesia’s deforestation](https://nmbu.brage.unit.no/nmbu-xmlui/bitstream/handle/11250/3176540/CLTS_Report_01_25_full_pg.pdf?sequence=1&isAllowed=y). *Centre for Land Tenure Studies Report 01/25*.
 
