@@ -15,11 +15,12 @@ You can find my publications on my [google scholar page](https://scholar.google.
 
 Published journal articles
 ======
-Ladewig, M., Angelsen, A., Masolele, R.N., Chervier, C. (2024). [Deforestation triggered by artisanal mining in eastern DR Congo](https://doi.org/10.1038/s41893-024-01421-8). *Nature Sustainability*, 7(11), 1452–1460 .
+Ladewig, M., Angelsen, A., Imani, G., Baderha, G., Bulonvu, F., Kalume, J., and Cuni-Sanchez, A. (2025). [Between a rock and a hard place: Livelihood diversification through artisanal mining in the eastern DRC](https://www.sciencedirect.com/science/article/pii/S0301420725001552?via%3Dihub). *Resources Policy*, 106, 105613.
+
+Ladewig, M., Angelsen, A., Masolele, R.N., Chervier, C. (2024). [Deforestation triggered by artisanal mining in eastern DR Congo](https://doi.org/10.1038/s41893-024-01421-8). *Nature Sustainability*, 7(11), 1452–1460.
 
 Working papers 
 ======
-Ladewig, M., Angelsen, A., Imani, G., Baderha, G., Bulonvu, F., Kalume, J., and Cuni-Sanchez, A. (2025). [Between a rock and a hard place: Livelihood diversification through artisanal mining in the eastern DRC](http://maladewig.github.io/files/postprint_DRC_ASM.pdf). *Forthcoming in Resources Policy*.
 
 Ladewig, M. (n.d.). [Increasing Pressure on Protected Areas in the DR Congo over the last 20 years](http://maladewig.github.io/files/wp_PAs_DRC.pdf). *Manuscript*.
 
