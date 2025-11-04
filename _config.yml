@@ -25,7 +25,7 @@ author:
   avatar           : "photo.jpg"
   name             : "Malte Ladewig"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher"
+  bio              : #"Researcher"
   location         : #"Earth"
   employer         : #"Norwegian University of Life Sciences (NMBU)"
   uri              : # URL
