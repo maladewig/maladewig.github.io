@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I recently obtained my PhD in Economics at the Norwegian University of Life Sciences (NMBU). In my research, I am interested in questions at the intersection of forest conservation and livelihoods to understand better how the progressing issue of deforestation can be tackled without compromising forest-dependent communities.
+I am a researcher with an interest in land system change and its impact on the natural and socio-economic environment, particulary in tropical regions. I am curious about questions at the intersection of forest conservation and livelihoods to understand better how the progressing issue of deforestation can be tackled without compromising forest-dependent communities. An economist by background, I greatly enjoy working in multi-disciplinary and inter-disciplinary teams.
 
-My doctoral thesis entitled "Mining, livelihoods and forest conservation in the DR Congo" was focused on the implications of mineral extraction in the Democratic Republic of Congo for both local communities and forest ecosystems. The thesis relied on the use of spatially-explicit econometric impact evaluation models, primary data from household surveys and geospatial data from satellite images. It can be [downloaded here](https://main-bvxea6i-kdsvgmpf4iwws.eu-5.platformsh.site/sites/default/files/2025-03/Malte%20Ladewig_Thesis.pdf).
+I recently obtained my PhD in Economics at the Norwegian University of Life Sciences (NMBU). My doctoral thesis entitled "Mining, livelihoods and forest conservation in the DR Congo" was focused on the implications of mineral extraction for both local communities and forest ecosystems in the Democratic Republic of Congo. The thesis relied on the use of spatially-explicit econometric impact evaluation models, primary data from household surveys and geospatial data from satellite images. It can be [downloaded here](https://main-bvxea6i-kdsvgmpf4iwws.eu-5.platformsh.site/sites/default/files/2025-03/Malte%20Ladewig_Thesis.pdf).
 
-You can find my publications on my [google scholar page](https://scholar.google.com/citations?user=viMAUr4AAAAJ&hl=en). If you are interested in my research and want to connect, you are welcome to [send me an email](mailto:malte.ladewig@nmbu.no). My CV can be downloaded here.
+My publications are listed below and on my [google scholar page](https://scholar.google.com/citations?user=viMAUr4AAAAJ&hl=en). 
+
+If you are interested in my research and want to connect, I would be glad to hear from you!
 
 Published journal articles
 ======
