@@ -17,14 +17,14 @@ If you are interested in my research and want to connect, I would be glad to hea
 
 Published journal articles
 ======
+Ladewig, M. (2026). [Increasing Pressure on Protected Areas in the DR Congo]([http://maladewig.github.io/files/wp_PAs_DRC.pdf](https://doi.org/10.1016/j.gloenvcha.2026.103167)). *Global Environmental Change*, 99, 103167.
+
 Ladewig, M., Angelsen, A., Imani, G., Baderha, G., Bulonvu, F., Kalume, J., and Cuni-Sanchez, A. (2025). [Between a rock and a hard place: Livelihood diversification through artisanal mining in the eastern DRC](https://www.sciencedirect.com/science/article/pii/S0301420725001552?via%3Dihub). *Resources Policy*, 106, 105613.
 
 Ladewig, M., Angelsen, A., Masolele, R.N., Chervier, C. (2024). [Deforestation triggered by artisanal mining in eastern DR Congo](https://doi.org/10.1038/s41893-024-01421-8). *Nature Sustainability*, 7(11), 1452–1460.
 
 Working papers 
 ======
-
-Ladewig, M. (n.d.). [Increasing Pressure on Protected Areas in the DR Congo over the last 20 years](http://maladewig.github.io/files/wp_PAs_DRC.pdf). *Revise and Resubmit*.
 
 Angelsen, A., Dermawan, A., and Ladewig, M. (2025). [Explaining the recent reduction of Indonesia’s deforestation](https://nmbu.brage.unit.no/nmbu-xmlui/bitstream/handle/11250/3176540/CLTS_Report_01_25_full_pg.pdf?sequence=1&isAllowed=y). *Centre for Land Tenure Studies Report 01/25*.
 
