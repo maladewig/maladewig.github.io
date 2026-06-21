@@ -13,7 +13,7 @@ I recently obtained my PhD in Economics at the Norwegian University of Life Scie
 
 My publications are listed below and on my [google scholar page](https://scholar.google.com/citations?user=viMAUr4AAAAJ&hl=en). 
 
-If you are interested in my research and want to connect, I would be glad to hear from you!
+If you are interested in my research and want to connect, I will be glad to hear from you!
 
 Published journal articles
 ======
